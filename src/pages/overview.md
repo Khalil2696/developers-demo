@@ -2,15 +2,7 @@
 title: .
 subtitle: ''
 img_path: ''
-sections:
-  - type: ctablock
-    title: The Title of The Call to Action Block
-    section_id: cta
-    component: CtaBlock
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/index.html
+sections: []
 menus:
   layouts:
     title: Overview
