@@ -29,6 +29,7 @@ sections:
           - label: Learn More
             url: /style-guide.html
       - title: Delivery Hero
+      - title: Random
 menus:
   main:
     title: Home
