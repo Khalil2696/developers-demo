@@ -28,6 +28,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide.html
+      - title: Delivery Hero
 menus:
   main:
     title: Home
