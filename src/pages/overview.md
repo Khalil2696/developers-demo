@@ -1,7 +1,7 @@
 ---
-title: Overview
-subtitle: An optional subtitle
-img_path: images/5.jpg
+title: .
+subtitle: ''
+img_path: ''
 sections:
   - type: ctablock
     title: The Title of The Call to Action Block
