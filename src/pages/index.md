@@ -75,25 +75,6 @@ sections:
         actions:
           - label: Learn More
             url: /showcase.html
-  - type: ctablock
-    title: The Title of The Call to Action Block
-    section_id: cta
-    component: CtaBlock
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
-  - type: contentblock
-    title: A Section Without Image
-    section_id: text-no-img
-    component: ContentBlock
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
 menus:
   main:
     title: Home
