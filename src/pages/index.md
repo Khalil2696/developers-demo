@@ -31,6 +31,7 @@ sections:
       - title: Delivery Hero
       - title: Random
       - title: Testing
+      - title: Testing 2
 menus:
   main:
     title: Home
