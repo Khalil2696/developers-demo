@@ -30,6 +30,7 @@ sections:
             url: /style-guide.html
       - title: Delivery Hero
       - title: Random
+      - title: Testing
 menus:
   main:
     title: Home
