@@ -28,20 +28,6 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide.html
-  - type: contentblock
-    title: A Section With An Image
-    section_id: text-img
-    component: ContentBlock
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    image: images/10.jpg
-    actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
   - type: featuresblock
     title: Sample Layouts
     section_id: features-two-col
