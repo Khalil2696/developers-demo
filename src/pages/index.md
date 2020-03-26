@@ -11,14 +11,15 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Get Started
+          - label: Request This Integration
             url: docs/index.html
       - title: DoorDash
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: View Posts
+          - label: Request This Integration
             url: blog/index.html
       - title: GrubHub
         content: >-
@@ -26,12 +27,29 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Learn More
+          - label: Request This Integration
             url: /style-guide.html
       - title: Delivery Hero
-      - title: Random
-      - title: Testing
-      - title: Testing 2
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        actions:
+          - label: Request This Integration
+      - title: Deliveroo
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        actions:
+          - label: Request This Integration
+      - title: Wolt
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        actions:
+          - label: Request This Integration
 menus:
   main:
     title: Home
